@@ -1,0 +1,19 @@
+.subpageheader {
+    background-color: rgb(245, 245, 245);
+    padding: 10px;
+}
+.header-container {
+    background: rgb(41, 107, 206);
+    color: azure;
+}
+.icon-button {
+    padding-bottom: 0px;
+    padding-top: 0px;
+    background: transparent;
+    border: transparent;
+}
+.icon-container {
+    /* position: relative;
+    right: 0px; */
+    padding-right: 0px;
+}

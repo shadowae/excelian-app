@@ -1,0 +1,16 @@
+.no-gutter > [class*='col-'] {
+  padding-right:0;
+  padding-left:0;
+}
+.mainrow {
+  border:2px solid blue;
+}
+.mainrow2 {
+  border:2px solid green;
+}
+
+.row-no-border {
+  border:2px solid orange;
+  padding-right:0;
+  padding-left:0;
+}

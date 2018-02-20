@@ -1,0 +1,9 @@
+.header-container {
+    background: rgb(41, 107, 206);
+    color: azure;
+}
+.hamburger-button {
+    padding: 15px;
+    background: transparent;
+    border: transparent;
+}
